@@ -2,7 +2,7 @@
 
 This framework implements the *Superimposition of Task Space Controllers* concept introduced in:
 
-> Carlo Tiseo*, Wolfgang Merkt*, Wouter Wolfslag, Sethu Vijayakumar, and Michael Mistry. Safe and Compliant Control of Redundant Robots Using Superimposition of Passive Task-Space Controllers. Nonlinear Dynamics, 2023. DOI: 10.1007/s11071-023-09045-x. [arXiv: 2002.12249](https://arxiv.org/abs/2002.12249)
+> Tiseo, C., Merkt, W., Wolfslag, W. et al. Safe and compliant control of redundant robots using superimposition of passive task-space controllers. Nonlinear Dyn (2023). [doi:10.1007/s11071-023-09045-x](https://doi.org/10.1007/s11071-023-09045-x)
 
 It is split in several packages:
 
